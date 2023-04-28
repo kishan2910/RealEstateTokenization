@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Arya {
 
-	public void main(String[] args) {
+	void main(String[] args) {
 		
 		SpringApplication.run(Arya.class, args);
 		
